@@ -6,7 +6,7 @@ package com.twodwarfs.retrofitoo.cons;
 public class Constants {
 
     public static final String TAG = "ShutterstockApp";
-    public static final String CLIENT_ID = "";
-    public static final String CLIENT_SECRET = "";
+    public static final String CLIENT_ID = "<putyourown>";
+    public static final String CLIENT_SECRET = "<putyourown>";
     public static final String BASE_URL = "https://api.shutterstock.com";
 }
